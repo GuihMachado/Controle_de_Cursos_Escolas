@@ -1,13 +1,13 @@
-package com.example.ac1_poo_lab;
+package com.example.ac2_poo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Ac1PooLabApplication {
+public class Ac2PooApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Ac1PooLabApplication.class, args);
+		SpringApplication.run(Ac2PooApplication.class, args);
 	}
 
 }
